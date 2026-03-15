@@ -1,8 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
-# UZH Thesis Matchmaking Assistant
-
+# RAG-Thesis-Matchmaker
 AI-powered system for discovering relevant thesis topics and supervisors at the **University of Zurich (UZH)**.
 
 The system combines:
